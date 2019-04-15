@@ -33,7 +33,7 @@ class ViewController: BaseVC {
   //  var imageCache = [String:UIImage]()
   //  let imageCache = NSCache<NSString, UIImage>()
     
-    var noOfItemInRow = 2
+    var noOfItemInRow = 3
    // var x : Int
     
     var searchParams = [
