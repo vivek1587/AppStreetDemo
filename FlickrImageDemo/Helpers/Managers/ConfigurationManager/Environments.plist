@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Development</key>
+	<dict>
+		<key>APIEndPoint</key>
+		<string>http://52.209.187.183:4003/api/</string>
+		<key>LoggingEnabled</key>
+		<true/>
+	</dict>
+	<key>Production</key>
+	<dict>
+		<key>APIEndPoint</key>
+		<string>http://api.mirrorme.it/api/</string>
+		<key>LoggingEnabled</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
